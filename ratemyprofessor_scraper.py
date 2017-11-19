@@ -9,7 +9,7 @@ counter = 0
 
 for i in range(1,210):
 	
-	query = "http://www.ratemyprofessors.com/filter/professor/?department=&institution=California+State+University%2C+Northridge&page="+str(i)+"&filter=teacherlastname_sort_s+asc&query=*%3A*&queryoption=TEACHER&queryBy=schoolId&sid=163"
+	query = "http://www.ratemyprofessors.com/filter/professor/?department=&institution=University+of+New+Mexico&page="+str(i)+"&filter=teacherlastname_sort_s+asc&query=*%3A*&queryoption=TEACHER&queryBy=schoolId&sid=1610"
 
 	
 	try:
